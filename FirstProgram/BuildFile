@@ -1,0 +1,1 @@
+ g++ FirstProgram.cpp -o FirstProgram -lGL -lGLU -lglut

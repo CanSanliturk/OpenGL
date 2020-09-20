@@ -1,0 +1,1 @@
+g++ RCBeam.cpp -o RCBeam -lGL -lGLU -lglut -lglfw
